@@ -64,7 +64,7 @@ sequenceDiagram
     Browser->>Server: POST /exampleapp/new_note_spa (JSON, Content-Type application/json)
     Note right of Server: Save the new note in memory
     Server-->>Browser: 201 Created
-    Note right of Browser: Keep the current document; no redirect or reload
+    Note right of Browser: Keep the current document, no redirect or reload
 ```
 
 The demo stores notes in memory, not a durable database. A local DOM change alone does not save server data. The SPA updates the list before the POST completes, which can leave a local/server mismatch if that request fails.

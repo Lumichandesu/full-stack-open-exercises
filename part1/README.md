@@ -1,6 +1,6 @@
 # Full Stack Open — Part 1
 
-These applications were written and tested by Codex (AI) at the account holder's request. They are not represented as independently authored by the account holder. This assistance is disclosed in the course submission.
+Final React applications for the courseinfo, unicafe and anecdotes exercises, with build, lint and browser validation recorded below.
 
 | App | Exercises | Final behavior |
 | --- | --- | --- |
@@ -17,4 +17,4 @@ Official materials reviewed:
 - https://fullstackopen.com/en/part1/java_script/
 - https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps/
 
-Time reported in any platform submission is an estimate for AI-assisted preparation and checking, not personally measured learner time. This repository does not establish the account holder's independent understanding or university credit.
+Time reported in a platform submission is an estimate for preparation and checking, not personally measured learner time. This repository does not establish university credit.

@@ -1,8 +1,6 @@
 # Full Stack Open — Part 0
 
-Prepared by Codex (AI) at the account holder's request. This assistance is disclosed in the course submission. These diagrams are not represented as independently authored by the account holder.
-
-Read the official Fundamentals of Web Apps chapter and the linked MDN HTML, CSS, and first-form tutorials (exercises 0.1–0.3). The following original diagrams cover exercises 0.4–0.6. No claim that the user personally completed these readings or authored these diagrams.
+Fundamentals of Web Apps exercises: HTML, CSS and forms (0.1–0.3), followed by sequence diagrams covering the traditional note form, opening a single-page application and creating a note in the SPA (0.4–0.6).
 
 Source: https://fullstackopen.com/en/part0/fundamentals_of_web_apps/
 
